@@ -1,0 +1,20 @@
+{"class_names": [
+    "astilbe",
+    "california_poppy",
+    "carnation",
+    "common_daisy",
+    "coreopsis",
+    "dandelion",
+    "iris",
+    "water_lily"
+],
+"class_roots": [
+    "./data/Flowers4/images/astilbe",
+    "./data/Flowers4/images/california_poppy",
+    "./data/Flowers4/images/carnation",
+    "./data/Flowers4/images/common_daisy",
+    "./data/Flowers4/images/coreopsis",
+    "./data/Flowers4/images/dandelion",
+    "./data/Flowers4/images/iris",
+    "./data/Flowers4/images/water_lily"
+]}

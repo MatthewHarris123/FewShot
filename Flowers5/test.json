@@ -1,0 +1,12 @@
+{"class_names": [
+    "california_poppy",
+    "common_daisy",
+    "sunflower",
+    "black_eyed_susan"
+],
+"class_roots": [
+    "./data/Flowers5/images/california_poppy",
+    "./data/Flowers5/images/common_daisy",
+    "./data/Flowers5/images/sunflower",
+    "./data/Flowers5/images/black_eyed_susan"
+]}

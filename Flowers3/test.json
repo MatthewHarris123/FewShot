@@ -1,0 +1,12 @@
+{"class_names": [
+    "bellflower",
+    "common_daisy",
+    "rose",
+    "calendula"
+],
+"class_roots": [
+    "./data/Flowers3/images/bellflower",
+    "./data/Flowers3/images/common_daisy",
+    "./data/Flowers3/images/rose",
+    "./data/Flowers3/images/calendula"
+]}

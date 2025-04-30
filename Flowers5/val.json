@@ -1,0 +1,12 @@
+{"class_names": [
+    "astilbe",
+    "carnation",
+    "dandelion",
+    "magnolia"
+],
+"class_roots": [
+    "./data/Flowers5/images/astilbe",
+    "./data/Flowers5/images/carnation",
+    "./data/Flowers5/images/dandelion",
+    "./data/Flowers5/images/magnolia"
+]}

@@ -1,0 +1,12 @@
+{"class_names": [
+    "bellflower",
+    "daffodil",
+    "sunflower",
+    "rose"
+],
+"class_roots": [
+    "./data/Flowers4/images/bellflower",
+    "./data/Flowers4/images/daffodil",
+    "./data/Flowers4/images/sunflower",
+    "./data/Flowers4/images/rose"
+]}

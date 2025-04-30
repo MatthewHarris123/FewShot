@@ -1,0 +1,12 @@
+{"class_names": [
+    "carnation",
+    "water_lily",
+    "magnolia",
+    "rose"
+],
+"class_roots": [
+    "./data/Flowers2/images/carnation",
+    "./data/Flowers2/images/water_lily",
+    "./data/Flowers2/images/magnolia",
+    "./data/Flowers2/images/rose"
+]}

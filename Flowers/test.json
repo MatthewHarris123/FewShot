@@ -1,0 +1,12 @@
+{"class_names": [
+    "astilbe",
+    "coreopsis",
+    "iris",
+    "tulip"
+],
+"class_roots": [
+    "./data/Flowers/images/astilbe",
+    "./data/Flowers/images/coreopsis",
+    "./data/Flowers/images/iris",
+    "./data/Flowers/images/tulip"
+]}

@@ -1,0 +1,20 @@
+{"class_names": [
+    "black_eyed_susan",
+    "carnation",
+    "common_daisy",
+    "dandelion",
+    "magnolia",
+    "rose",
+    "sunflower",
+    "water_lily"
+],
+"class_roots": [
+    "./data/Flowers/images/black_eyed_susan",
+    "./data/Flowers/images/carnation",
+    "./data/Flowers/images/common_daisy",
+    "./data/Flowers/images/dandelion",
+    "./data/Flowers/images/magnolia",
+    "./data/Flowers/images/rose",
+    "./data/Flowers/images/sunflower",
+    "./data/Flowers/images/water_lily"
+]}

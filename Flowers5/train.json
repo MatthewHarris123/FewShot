@@ -1,0 +1,20 @@
+{"class_names": [
+    "bellflower",
+    "calendula",
+    "coreopsis",
+    "daffodil",
+    "iris",
+    "rose",
+    "tulip",
+    "water_lily"
+],
+"class_roots": [
+    "./data/Flowers5/images/bellflower",
+    "./data/Flowers5/images/calendula",
+    "./data/Flowers5/images/coreopsis",
+    "./data/Flowers5/images/daffodil",
+    "./data/Flowers5/images/iris",
+    "./data/Flowers5/images/rose",
+    "./data/Flowers5/images/tulip",
+    "./data/Flowers5/images/water_lily"
+]}

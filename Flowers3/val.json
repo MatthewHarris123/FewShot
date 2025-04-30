@@ -1,0 +1,12 @@
+{"class_names": [
+    "carnation",
+    "coreopsis",
+    "sunflower",
+    "tulip"
+],
+"class_roots": [
+    "./data/Flowers3/images/carnation",
+    "./data/Flowers3/images/coreopsis",
+    "./data/Flowers3/images/sunflower",
+    "./data/Flowers3/images/tulip"
+]}

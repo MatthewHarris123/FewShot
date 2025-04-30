@@ -1,0 +1,20 @@
+{"class_names": [
+    "astilbe",
+    "black_eyed_susan",
+    "california_poppy",
+    "daffodil",
+    "dandelion",
+    "iris",
+    "magnolia",
+    "water_lily"
+],
+"class_roots": [
+    "./data/Flowers3/images/astilbe",
+    "./data/Flowers3/images/black_eyed_susan",
+    "./data/Flowers3/images/california_poppy",
+    "./data/Flowers3/images/daffodil",
+    "./data/Flowers3/images/dandelion",
+    "./data/Flowers3/images/iris",
+    "./data/Flowers3/images/magnolia",
+    "./data/Flowers3/images/water_lily"
+]}

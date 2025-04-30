@@ -1,0 +1,12 @@
+{"class_names": [
+    "astilbe",
+    "black_eyed_susan",
+    "dandelion",
+    "sunflower"
+],
+"class_roots": [
+    "./data/Flowers2/images/astilbe",
+    "./data/Flowers2/images/black_eyed_susan",
+    "./data/Flowers2/images/dandelion",
+    "./data/Flowers2/images/sunflower"
+]}
