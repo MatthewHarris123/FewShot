@@ -1,6 +1,4 @@
 # FewShot
-TO RUN THE CODE YOU MUST FIRST DOWNLOAD THE DATASET AT THIS LINK:
+To run the baseline and transfer classifiers you must first download the dataset from this link:
 https://www.kaggle.com/datasets/l3llff/flowers
-
-Reference link for more stuff on TL
-https://www.geeksforgeeks.org/ml-introduction-to-transfer-learning/
+Extract the ZIP file and place the "flowers" folder in the same location as the three classifiers
